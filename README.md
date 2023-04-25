@@ -1,2 +1,0 @@
-# web
-Mana Protocol Website
